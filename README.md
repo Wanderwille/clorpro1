@@ -289,7 +289,7 @@ Note: You didn't use the -out option to save this plan, so Terraform can't guara
 
 Пинг с публичной VPS:
 
-![Scrin]https://github.com/Wanderwille/scrinshot/blob/scrin2/clopro/public%20ping.png()
+![Scrin](https://github.com/Wanderwille/scrinshot/blob/scrin2/clopro/public%20ping.png)
 
 Для того, что бы попасть на приватную машину, у которой нет публичного ip адреса, скопировал ключ на публичную машину и с его помощью подключился к приватной VPS
 
